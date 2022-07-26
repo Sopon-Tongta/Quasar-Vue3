@@ -1,0 +1,134 @@
+// app global css in SCSS form
+@font-face {
+  font-family: ThaiBevSansNew-Black;
+  src: url(./fonts/ThaiBevSansNew-Black.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-BlackItalic;
+  src: url(./fonts/ThaiBevSansNew-BlackItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-Bold;
+  src: url(./fonts/ThaiBevSansNew-Bold.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-BoldItalic;
+  src: url(./fonts/ThaiBevSansNew-BoldItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-ExtraBold;
+  src: url(./fonts/ThaiBevSansNew-ExtraBold.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-ExtraBoldItalic;
+  src: url(./fonts/ThaiBevSansNew-ExtraBoldItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-ExtraLight;
+  src: url(./fonts/ThaiBevSansNew-ExtraLight.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-ExtraLightItalic;
+  src: url(./fonts/ThaiBevSansNew-ExtraLightItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-Italic;
+  src: url(./fonts/ThaiBevSansNew-Italic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-Light;
+  src: url(./fonts/ThaiBevSansNew-Light.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-LightItalic;
+  src: url(./fonts/ThaiBevSansNew-LightItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-Medium;
+  src: url(./fonts/ThaiBevSansNew-Medium.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-MediumItalic;
+  src: url(./fonts/ThaiBevSansNew-MediumItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-Regular;
+  src: url(./fonts/ThaiBevSansNew-Regular.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-SemiBold;
+  src: url(./fonts/ThaiBevSansNew-SemiBold.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-SemiBoldItalic;
+  src: url(./fonts/ThaiBevSansNew-SemiBoldItalic.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-Thin;
+  src: url(./fonts/ThaiBevSansNew-Thin.otf);
+}
+@font-face {
+  font-family: ThaiBevSansNew-ThinItalic;
+  src: url(./fonts/ThaiBevSansNew-ThinItalic.otf);
+}
+
+.font-ThaiBevSansNew-Black {
+  font-family: "ThaiBevSansNew-Black";
+}
+.font-ThaiBevSansNew-BlackItalic {
+  font-family: "ThaiBevSansNew-BlackItalic";
+}
+.font-ThaiBevSansNew-Bold {
+  font-family: "ThaiBevSansNew-Bold";
+}
+.font-ThaiBevSansNew-BoldItalic {
+  font-family: "ThaiBevSansNew-BoldItalic";
+}
+.font-ThaiBevSansNew-ExtraBold {
+  font-family: "ThaiBevSansNew-ExtraBold";
+}
+.font-ThaiBevSansNew-ExtraBoldItalic {
+  font-family: "ThaiBevSansNew-ExtraBoldItalic";
+}
+.font-ThaiBevSansNew-ExtraLight {
+  font-family: "ThaiBevSansNew-ExtraLight";
+}
+.font-ThaiBevSansNew-ExtraLightItalic {
+  font-family: "ThaiBevSansNew-ExtraLightItalic";
+}
+.font-ThaiBevSansNew-Italic {
+  font-family: "ThaiBevSansNew-Italic";
+}
+.font-ThaiBevSansNew-Light {
+  font-family: "ThaiBevSansNew-Light";
+}
+.font-ThaiBevSansNew-LightItalic {
+  font-family: "ThaiBevSansNew-LightItalic";
+}
+.font-ThaiBevSansNew-Medium {
+  font-family: "ThaiBevSansNew-Medium";
+}
+.font-ThaiBevSansNew-MediumItalic {
+  font-family: "ThaiBevSansNew-MediumItalic";
+}
+.font-ThaiBevSansNew-Regular {
+  font-family: "ThaiBevSansNew-Regular";
+}
+.font-ThaiBevSansNew-SemiBold {
+  font-family: "ThaiBevSansNew-SemiBold";
+}
+.font-ThaiBevSansNew-SemiBoldItalic {
+  font-family: "ThaiBevSansNew-SemiBoldItalic";
+}
+.font-ThaiBevSansNew-Thin {
+  font-family: "ThaiBevSansNew-Thin";
+}
+.font-ThaiBevSansNew-ThinItalic {
+  font-family: "ThaiBevSansNew-ThinItalic";
+}
+.text-theme-color {
+  color: $themeColor !important;
+}
+.bg-theme-color {
+  background: $themeColor !important;
+}
